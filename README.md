@@ -1,7 +1,7 @@
 # 密码生成器|GeneratePassword
 
-用Go语言编写的密码生成器，在***https://www.cnblogs.com/xwxz/p/13322927.html*** 的基础上进行了适当修改。
-
+用Go语言编写的密码生成器，在***https://www.cnblogs.com/xwxz/p/13322927.html*** 的基础上进行了适当修改。<br><br>
+[Code: generatePassword.go](./generatePassword.go) 
 ## 参数
   ```
   -l int
